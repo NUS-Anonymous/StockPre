@@ -1,0 +1,120 @@
+GOOGL
+Accuracy: 0.61 (+/- 0.01)
+
+PGR
+Accuracy: 0.64 (+/- 0.01)
+
+JNJ
+Accuracy: 0.67 (+/- 0.01)
+
+CSCO
+Accuracy: 0.62 (+/- 0.01)
+
+CLX
+Accuracy: 0.65 (+/- 0.01)
+
+PG
+Accuracy: 0.67 (+/- 0.01)
+
+MSFT
+Accuracy: 0.62 (+/- 0.01)
+
+CHKP
+Accuracy: 0.64 (+/- 0.01)
+
+ORCL
+Accuracy: 0.63 (+/- 0.01)
+
+DIS
+Accuracy: 0.65 (+/- 0.01)
+
+SAFT
+Accuracy: 0.64 (+/- 0.00)
+
+ITC
+Accuracy: 0.69 (+/- 0.01)
+
+KO
+Accuracy: 0.67 (+/- 0.00)
+
+WMT
+Accuracy: 0.64 (+/- 0.01)
+
+VZ
+Accuracy: 0.65 (+/- 0.01)
+
+TRV
+Accuracy: 0.65 (+/- 0.01)
+
+DIS
+Accuracy: 0.65 (+/- 0.01)
+
+MCD
+Accuracy: 0.66 (+/- 0.01)
+
+COST
+Accuracy: 0.64 (+/- 0.01)
+
+BDX
+Accuracy: 0.63 (+/- 0.01)
+
+GOOGL
+Accuracy: 0.61 (+/- 0.01)
+
+PGR
+Accuracy: 0.64 (+/- 0.01)
+
+JNJ
+Accuracy: 0.67 (+/- 0.01)
+
+CSCO
+Accuracy: 0.62 (+/- 0.01)
+
+CLX
+Accuracy: 0.65 (+/- 0.01)
+
+PG
+Accuracy: 0.67 (+/- 0.01)
+
+MSFT
+Accuracy: 0.62 (+/- 0.01)
+
+CHKP
+Accuracy: 0.64 (+/- 0.01)
+
+ORCL
+Accuracy: 0.63 (+/- 0.01)
+
+DIS
+Accuracy: 0.65 (+/- 0.01)
+
+SAFT
+Accuracy: 0.64 (+/- 0.00)
+
+ITC
+Accuracy: 0.69 (+/- 0.01)
+
+KO
+Accuracy: 0.67 (+/- 0.00)
+
+WMT
+Accuracy: 0.64 (+/- 0.01)
+
+VZ
+Accuracy: 0.65 (+/- 0.01)
+
+TRV
+Accuracy: 0.65 (+/- 0.01)
+
+DIS
+Accuracy: 0.65 (+/- 0.01)
+
+MCD
+Accuracy: 0.66 (+/- 0.01)
+
+COST
+Accuracy: 0.64 (+/- 0.01)
+
+BDX
+Accuracy: 0.63 (+/- 0.01)
+
