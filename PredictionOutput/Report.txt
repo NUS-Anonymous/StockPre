@@ -1,104 +1,336 @@
-StockName: FB_Days_7_Kernel_sigmoid
-Accuracy: 0.41 (+/- 0.02)
-StockName: CHKP_Days_7_Kernel_sigmoid
-Accuracy: 0.67 (+/- 0.06)
-StockName: AMZN_Days_7_Kernel_sigmoid
-Accuracy: 0.47 (+/- 0.31)
-StockName: TSLA_Days_7_Kernel_sigmoid
-Accuracy: 0.33 (+/- 0.04)
-StockName: CSCO_Days_7_Kernel_sigmoid
-Accuracy: 0.54 (+/- 0.08)
-StockName: WMT_Days_7_Kernel_sigmoid
-Accuracy: 0.52 (+/- 0.05)
-StockName: PG_Days_7_Kernel_sigmoid
-Accuracy: 0.67 (+/- 0.07)
-StockName: JPM_Days_7_Kernel_sigmoid
-Accuracy: 0.62 (+/- 0.08)
-StockName: GOOGL_Days_7_Kernel_sigmoid
-Accuracy: 0.50 (+/- 0.00)
-StockName: VZ_Days_7_Kernel_sigmoid
-Accuracy: 0.70 (+/- 0.04)
-StockName: BDX_Days_7_Kernel_sigmoid
-Accuracy: 0.58 (+/- 0.09)
-StockName: AAPL_Days_7_Kernel_sigmoid
-Accuracy: 0.60 (+/- 0.08)
-StockName: ORCL_Days_7_Kernel_sigmoid
-Accuracy: 0.54 (+/- 0.04)
-StockName: MSFT_Days_7_Kernel_sigmoid
-Accuracy: 0.56 (+/- 0.04)
-StockName: KO_Days_7_Kernel_sigmoid
-Accuracy: 0.76 (+/- 0.09)
-StockName: PGR_Days_7_Kernel_sigmoid
-Accuracy: 0.56 (+/- 0.04)
-StockName: CLX_Days_7_Kernel_sigmoid
-Accuracy: 0.50 (+/- 0.05)
-StockName: SAFT_Days_7_Kernel_sigmoid
-Accuracy: 0.65 (+/- 0.05)
-StockName: COST_Days_7_Kernel_sigmoid
-Accuracy: 0.54 (+/- 0.04)
-StockName: DIS_Days_7_Kernel_sigmoid
-Accuracy: 0.52 (+/- 0.05)
-StockName: JNJ_Days_7_Kernel_sigmoid
-Accuracy: 0.56 (+/- 0.10)
-StockName: TRV_Days_7_Kernel_sigmoid
-Accuracy: 0.67 (+/- 0.07)
-StockName: TWTR_Days_7_Kernel_sigmoid
-Accuracy: 0.37 (+/- 0.05)
-StockName: NFLX_Days_7_Kernel_sigmoid
-Accuracy: 0.46 (+/- 0.04)
-StockName: MCD_Days_7_Kernel_sigmoid
-Accuracy: 0.63 (+/- 0.05)
-StockName: AAPL_Days_7_Kernel_sigmoid
-Accuracy: 0.47 (+/- 0.31)
-StockName: FB_Days_7_Kernel_sigmoid
-Accuracy: 0.42 (+/- 0.13)
-StockName: TSLA_Days_7_Kernel_sigmoid
-Accuracy: 0.36 (+/- 0.10)
-StockName: BDX_Days_7_Kernel_sigmoid
-Accuracy: 0.58 (+/- 0.14)
-StockName: GOOGL_Days_7_Kernel_sigmoid
-Accuracy: 0.50 (+/- 0.00)
-StockName: PGR_Days_7_Kernel_sigmoid
-Accuracy: 0.56 (+/- 0.16)
-StockName: AMZN_Days_7_Kernel_sigmoid
-Accuracy: 0.45 (+/- 0.52)
-StockName: JNJ_Days_7_Kernel_sigmoid
-Accuracy: 0.57 (+/- 0.14)
-StockName: JPM_Days_7_Kernel_sigmoid
-Accuracy: 0.62 (+/- 0.13)
-StockName: AAPL_Days_7_Kernel_sigmoid
-Accuracy: 0.60 (+/- 0.12)
-StockName: PG_Days_7_Kernel_sigmoid
-Accuracy: 0.68 (+/- 0.13)
-StockName: SAFT_Days_7_Kernel_sigmoid
-Accuracy: 0.65 (+/- 0.09)
-StockName: CLX_Days_7_Kernel_sigmoid
-Accuracy: 0.50 (+/- 0.08)
-StockName: DIS_Days_7_Kernel_sigmoid
-Accuracy: 0.53 (+/- 0.13)
-StockName: CSCO_Days_7_Kernel_sigmoid
-Accuracy: 0.55 (+/- 0.17)
-StockName: VZ_Days_7_Kernel_sigmoid
-Accuracy: 0.71 (+/- 0.15)
-StockName: CHKP_Days_7_Kernel_sigmoid
-Accuracy: 0.67 (+/- 0.10)
-StockName: KO_Days_7_Kernel_sigmoid
-Accuracy: 0.78 (+/- 0.29)
-StockName: COST_Days_7_Kernel_sigmoid
-Accuracy: 0.54 (+/- 0.12)
-StockName: MSFT_Days_7_Kernel_sigmoid
-Accuracy: 0.56 (+/- 0.10)
-StockName: ORCL_Days_7_Kernel_sigmoid
-Accuracy: 0.54 (+/- 0.10)
-StockName: NFLX_Days_7_Kernel_sigmoid
-Accuracy: 0.47 (+/- 0.07)
-StockName: WMT_Days_7_Kernel_sigmoid
-Accuracy: 0.53 (+/- 0.13)
-StockName: TRV_Days_7_Kernel_sigmoid
-Accuracy: 0.68 (+/- 0.12)
-StockName: MCD_Days_7_Kernel_sigmoid
-Accuracy: 0.63 (+/- 0.10)
-StockName: TWTR_Days_7_Kernel_sigmoid
-Accuracy: 0.38 (+/- 0.08)
-StockName: AAPL_Days_7_Kernel_sigmoid
-Accuracy: 0.45 (+/- 0.52)
+StockName: DIS_Days_10_Kernel_sigmoid
+Accuracy: 0.88 (+/- 0.02)
+StockName: JPM_Days_10_Kernel_sigmoid
+Accuracy: 0.82 (+/- 0.02)
+StockName: KO_Days_10_Kernel_sigmoid
+Accuracy: 0.93 (+/- 0.03)
+StockName: MCD_Days_10_Kernel_sigmoid
+Accuracy: 0.91 (+/- 0.01)
+StockName: PGR_Days_10_Kernel_sigmoid
+Accuracy: 0.88 (+/- 0.03)
+StockName: MSFT_Days_10_Kernel_sigmoid
+Accuracy: 0.84 (+/- 0.01)
+StockName: GOOGL_Days_10_Kernel_sigmoid
+Accuracy: 0.85 (+/- 0.02)
+StockName: ORCL_Days_10_Kernel_sigmoid
+Accuracy: 0.86 (+/- 0.02)
+StockName: SAFT_Days_10_Kernel_sigmoid
+Accuracy: 0.85 (+/- 0.03)
+StockName: FB_Days_10_Kernel_sigmoid
+Accuracy: 0.80 (+/- 0.01)
+StockName: AMZN_Days_10_Kernel_sigmoid
+Accuracy: 0.78 (+/- 0.01)
+StockName: BDX_Days_10_Kernel_sigmoid
+Accuracy: 0.86 (+/- 0.02)
+StockName: PG_Days_10_Kernel_sigmoid
+Accuracy: 0.92 (+/- 0.02)
+StockName: CLX_Days_10_Kernel_sigmoid
+Accuracy: 0.88 (+/- 0.01)
+StockName: CSCO_Days_10_Kernel_sigmoid
+Accuracy: 0.84 (+/- 0.02)
+StockName: VZ_Days_10_Kernel_sigmoid
+Accuracy: 0.87 (+/- 0.02)
+StockName: AAPL_Days_10_Kernel_sigmoid
+Accuracy: 0.80 (+/- 0.01)
+StockName: WMT_Days_10_Kernel_sigmoid
+Accuracy: 0.86 (+/- 0.03)
+StockName: JNJ_Days_10_Kernel_sigmoid
+Accuracy: 0.92 (+/- 0.03)
+StockName: CHKP_Days_10_Kernel_sigmoid
+Accuracy: 0.85 (+/- 0.02)
+StockName: COST_Days_10_Kernel_sigmoid
+Accuracy: 0.84 (+/- 0.02)
+StockName: TSLA_Days_10_Kernel_sigmoid
+Accuracy: 0.54 (+/- 0.01)
+StockName: NFLX_Days_10_Kernel_sigmoid
+Accuracy: 0.63 (+/- 0.02)
+StockName: TWTR_Days_10_Kernel_sigmoid
+Accuracy: 0.53 (+/- 0.01)
+StockName: AAPL_Days_10_Kernel_sigmoid
+Accuracy: 0.80 (+/- 0.01)
+StockName: CLX_Days_10_Kernel_sigmoid
+Accuracy: 0.88 (+/- 0.01)
+StockName: JNJ_Days_10_Kernel_sigmoid
+Accuracy: 0.92 (+/- 0.03)
+StockName: BDX_Days_10_Kernel_sigmoid
+Accuracy: 0.86 (+/- 0.02)
+StockName: FB_Days_10_Kernel_sigmoid
+Accuracy: 0.80 (+/- 0.01)
+StockName: VZ_Days_10_Kernel_sigmoid
+Accuracy: 0.87 (+/- 0.02)
+StockName: ORCL_Days_10_Kernel_sigmoid
+Accuracy: 0.86 (+/- 0.02)
+StockName: KO_Days_10_Kernel_sigmoid
+Accuracy: 0.93 (+/- 0.03)
+StockName: TSLA_Days_10_Kernel_sigmoid
+Accuracy: 0.54 (+/- 0.01)
+StockName: PG_Days_10_Kernel_sigmoid
+Accuracy: 0.92 (+/- 0.02)
+StockName: GOOGL_Days_10_Kernel_sigmoid
+Accuracy: 0.85 (+/- 0.02)
+StockName: CHKP_Days_10_Kernel_sigmoid
+Accuracy: 0.85 (+/- 0.02)
+StockName: SAFT_Days_10_Kernel_sigmoid
+Accuracy: 0.85 (+/- 0.03)
+StockName: MCD_Days_10_Kernel_sigmoid
+Accuracy: 0.91 (+/- 0.01)
+StockName: CSCO_Days_10_Kernel_sigmoid
+Accuracy: 0.84 (+/- 0.02)
+StockName: NFLX_Days_10_Kernel_sigmoid
+Accuracy: 0.63 (+/- 0.02)
+StockName: WMT_Days_10_Kernel_sigmoid
+Accuracy: 0.86 (+/- 0.03)
+StockName: PGR_Days_10_Kernel_sigmoid
+Accuracy: 0.88 (+/- 0.03)
+StockName: MSFT_Days_10_Kernel_sigmoid
+Accuracy: 0.84 (+/- 0.01)
+StockName: JPM_Days_10_Kernel_sigmoid
+Accuracy: 0.82 (+/- 0.02)
+StockName: AMZN_Days_10_Kernel_sigmoid
+Accuracy: 0.78 (+/- 0.01)
+StockName: DIS_Days_10_Kernel_sigmoid
+Accuracy: 0.88 (+/- 0.02)
+StockName: COST_Days_10_Kernel_sigmoid
+Accuracy: 0.84 (+/- 0.02)
+StockName: TWTR_Days_10_Kernel_sigmoid
+Accuracy: 0.53 (+/- 0.01)
+StockName: AMZN_Days_10_Kernel_sigmoid
+Accuracy: 0.78 (+/- 0.01)
+StockName: JNJ_Days_10_Kernel_sigmoid
+Accuracy: 0.92 (+/- 0.03)
+StockName: PG_Days_10_Kernel_sigmoid
+Accuracy: 0.92 (+/- 0.02)
+StockName: FB_Days_10_Kernel_sigmoid
+Accuracy: 0.80 (+/- 0.01)
+StockName: JPM_Days_10_Kernel_sigmoid
+Accuracy: 0.82 (+/- 0.02)
+StockName: AAPL_Days_10_Kernel_sigmoid
+Accuracy: 0.80 (+/- 0.01)
+StockName: BDX_Days_10_Kernel_sigmoid
+Accuracy: 0.86 (+/- 0.02)
+StockName: MSFT_Days_10_Kernel_sigmoid
+Accuracy: 0.84 (+/- 0.01)
+StockName: GOOGL_Days_10_Kernel_sigmoid
+Accuracy: 0.85 (+/- 0.02)
+StockName: KO_Days_10_Kernel_sigmoid
+Accuracy: 0.93 (+/- 0.03)
+StockName: NFLX_Days_10_Kernel_sigmoid
+Accuracy: 0.63 (+/- 0.02)
+StockName: PGR_Days_10_Kernel_sigmoid
+Accuracy: 0.88 (+/- 0.03)
+StockName: CSCO_Days_10_Kernel_sigmoid
+Accuracy: 0.84 (+/- 0.02)
+StockName: CHKP_Days_10_Kernel_sigmoid
+Accuracy: 0.85 (+/- 0.02)
+StockName: WMT_Days_10_Kernel_sigmoid
+Accuracy: 0.86 (+/- 0.03)
+StockName: SAFT_Days_10_Kernel_sigmoid
+Accuracy: 0.85 (+/- 0.03)
+StockName: MCD_Days_10_Kernel_sigmoid
+Accuracy: 0.91 (+/- 0.01)
+StockName: VZ_Days_10_Kernel_sigmoid
+Accuracy: 0.87 (+/- 0.02)
+StockName: ORCL_Days_10_Kernel_sigmoid
+Accuracy: 0.86 (+/- 0.02)
+StockName: CLX_Days_10_Kernel_sigmoid
+Accuracy: 0.88 (+/- 0.01)
+StockName: TSLA_Days_10_Kernel_sigmoid
+Accuracy: 0.54 (+/- 0.01)
+StockName: DIS_Days_10_Kernel_sigmoid
+Accuracy: 0.88 (+/- 0.02)
+StockName: COST_Days_10_Kernel_sigmoid
+Accuracy: 0.84 (+/- 0.02)
+StockName: TWTR_Days_10_Kernel_sigmoid
+Accuracy: 0.53 (+/- 0.01)
+StockName: CHKP_Days_10_Kernel_sigmoid
+Accuracy: 0.80 (+/- 0.03)
+StockName: AMZN_Days_10_Kernel_sigmoid
+Accuracy: 0.70 (+/- 0.01)
+StockName: VZ_Days_10_Kernel_sigmoid
+Accuracy: 0.81 (+/- 0.02)
+StockName: AAPL_Days_10_Kernel_sigmoid
+Accuracy: 0.74 (+/- 0.01)
+StockName: JPM_Days_10_Kernel_sigmoid
+Accuracy: 0.77 (+/- 0.01)
+StockName: SAFT_Days_10_Kernel_sigmoid
+Accuracy: 0.80 (+/- 0.02)
+StockName: MCD_Days_10_Kernel_sigmoid
+Accuracy: 0.87 (+/- 0.02)
+StockName: FB_Days_10_Kernel_sigmoid
+Accuracy: 0.72 (+/- 0.01)
+StockName: ORCL_Days_10_Kernel_sigmoid
+Accuracy: 0.82 (+/- 0.03)
+StockName: JNJ_Days_10_Kernel_sigmoid
+Accuracy: 0.88 (+/- 0.02)
+StockName: GOOGL_Days_10_Kernel_sigmoid
+Accuracy: 0.77 (+/- 0.02)
+StockName: CLX_Days_10_Kernel_sigmoid
+Accuracy: 0.83 (+/- 0.01)
+StockName: COST_Days_10_Kernel_sigmoid
+Accuracy: 0.79 (+/- 0.02)
+StockName: MSFT_Days_10_Kernel_sigmoid
+Accuracy: 0.76 (+/- 0.02)
+StockName: PG_Days_10_Kernel_sigmoid
+Accuracy: 0.89 (+/- 0.03)
+StockName: KO_Days_10_Kernel_sigmoid
+Accuracy: 0.89 (+/- 0.03)
+StockName: BDX_Days_10_Kernel_sigmoid
+Accuracy: 0.80 (+/- 0.01)
+StockName: TSLA_Days_10_Kernel_sigmoid
+Accuracy: 0.47 (+/- 0.01)
+StockName: WMT_Days_10_Kernel_sigmoid
+Accuracy: 0.82 (+/- 0.02)
+StockName: NFLX_Days_10_Kernel_sigmoid
+Accuracy: 0.56 (+/- 0.01)
+StockName: PGR_Days_10_Kernel_sigmoid
+Accuracy: 0.82 (+/- 0.02)
+StockName: DIS_Days_10_Kernel_sigmoid
+Accuracy: 0.81 (+/- 0.02)
+StockName: CSCO_Days_10_Kernel_sigmoid
+Accuracy: 0.80 (+/- 0.03)
+StockName: TWTR_Days_10_Kernel_sigmoid
+Accuracy: 0.46 (+/- 0.01)
+StockName: BDX_Days_10_Kernel_sigmoid_Thres_1
+Accuracy: 0.72 (+/- 0.01)
+StockName: TSLA_Days_10_Kernel_sigmoid_Thres_1
+Accuracy: 0.39 (+/- 0.01)
+StockName: AAPL_Days_10_Kernel_sigmoid_Thres_1
+Accuracy: 0.68 (+/- 0.01)
+StockName: AMZN_Days_10_Kernel_sigmoid_Thres_1
+Accuracy: 0.62 (+/- 0.01)
+StockName: JPM_Days_10_Kernel_sigmoid_Thres_1
+Accuracy: 0.69 (+/- 0.02)
+StockName: PGR_Days_10_Kernel_sigmoid_Thres_1
+Accuracy: 0.74 (+/- 0.02)
+StockName: FB_Days_10_Kernel_sigmoid_Thres_1
+Accuracy: 0.63 (+/- 0.01)
+StockName: PG_Days_10_Kernel_sigmoid_Thres_1
+Accuracy: 0.82 (+/- 0.01)
+StockName: GOOGL_Days_10_Kernel_sigmoid_Thres_1
+Accuracy: 0.70 (+/- 0.02)
+StockName: JNJ_Days_10_Kernel_sigmoid_Thres_1
+Accuracy: 0.84 (+/- 0.01)
+StockName: CLX_Days_10_Kernel_sigmoid_Thres_1
+Accuracy: 0.74 (+/- 0.01)
+StockName: CSCO_Days_10_Kernel_sigmoid_Thres_1
+Accuracy: 0.70 (+/- 0.02)
+StockName: CHKP_Days_10_Kernel_sigmoid_Thres_1
+Accuracy: 0.68 (+/- 0.01)
+StockName: ORCL_Days_10_Kernel_sigmoid_Thres_1
+Accuracy: 0.75 (+/- 0.01)
+StockName: MSFT_Days_10_Kernel_sigmoid_Thres_1
+Accuracy: 0.70 (+/- 0.01)
+StockName: DIS_Days_10_Kernel_sigmoid_Thres_1
+Accuracy: 0.75 (+/- 0.02)
+StockName: WMT_Days_10_Kernel_sigmoid_Thres_1
+Accuracy: 0.73 (+/- 0.02)
+StockName: COST_Days_10_Kernel_sigmoid_Thres_1
+Accuracy: 0.73 (+/- 0.01)
+StockName: SAFT_Days_10_Kernel_sigmoid_Thres_1
+Accuracy: 0.73 (+/- 0.01)
+StockName: VZ_Days_10_Kernel_sigmoid_Thres_1
+Accuracy: 0.72 (+/- 0.02)
+StockName: KO_Days_10_Kernel_sigmoid_Thres_1
+Accuracy: 0.85 (+/- 0.03)
+StockName: MCD_Days_10_Kernel_sigmoid_Thres_1
+Accuracy: 0.79 (+/- 0.02)
+StockName: NFLX_Days_10_Kernel_sigmoid_Thres_1
+Accuracy: 0.48 (+/- 0.01)
+StockName: TWTR_Days_10_Kernel_sigmoid_Thres_1
+Accuracy: 0.39 (+/- 0.01)
+StockName: KO_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.61 (+/- 0.01)
+StockName: FB_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.41 (+/- 0.01)
+StockName: JNJ_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.55 (+/- 0.01)
+StockName: JPM_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.45 (+/- 0.01)
+StockName: PGR_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.46 (+/- 0.01)
+StockName: MCD_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.53 (+/- 0.01)
+StockName: BDX_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.44 (+/- 0.01)
+StockName: DIS_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.47 (+/- 0.01)
+StockName: AMZN_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.38 (+/- 0.01)
+StockName: PG_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.56 (+/- 0.01)
+StockName: WMT_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.47 (+/- 0.01)
+StockName: CHKP_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.42 (+/- 0.01)
+StockName: CLX_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.45 (+/- 0.01)
+StockName: AAPL_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.42 (+/- 0.01)
+StockName: GOOGL_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.45 (+/- 0.01)
+StockName: TSLA_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.40 (+/- 0.01)
+StockName: COST_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.45 (+/- 0.01)
+StockName: CSCO_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.45 (+/- 0.01)
+StockName: NFLX_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.37 (+/- 0.01)
+StockName: SAFT_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.39 (+/- 0.01)
+StockName: TWTR_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.41 (+/- 0.00)
+StockName: MSFT_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.46 (+/- 0.01)
+StockName: ORCL_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.48 (+/- 0.01)
+StockName: VZ_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.44 (+/- 0.00)
+StockName: AAPL_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.42 (+/- 0.01)
+StockName: BDX_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.44 (+/- 0.01)
+StockName: JPM_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.45 (+/- 0.01)
+StockName: PG_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.56 (+/- 0.01)
+StockName: CSCO_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.45 (+/- 0.01)
+StockName: MSFT_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.46 (+/- 0.01)
+StockName: AMZN_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.38 (+/- 0.01)
+StockName: JNJ_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.55 (+/- 0.01)
+StockName: KO_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.61 (+/- 0.01)
+StockName: FB_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.41 (+/- 0.01)
+StockName: GOOGL_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.45 (+/- 0.01)
+StockName: PGR_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.46 (+/- 0.01)
+StockName: ORCL_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.48 (+/- 0.01)
+StockName: MCD_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.53 (+/- 0.01)
+StockName: CHKP_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.42 (+/- 0.01)
+StockName: CLX_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.45 (+/- 0.01)
+StockName: VZ_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.44 (+/- 0.00)
+StockName: DIS_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.47 (+/- 0.01)
+StockName: COST_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.45 (+/- 0.01)
+StockName: TSLA_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.40 (+/- 0.01)
+StockName: WMT_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.47 (+/- 0.01)
+StockName: NFLX_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.37 (+/- 0.01)
+StockName: TWTR_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.41 (+/- 0.00)
+StockName: SAFT_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.39 (+/- 0.01)
