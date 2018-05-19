@@ -334,3 +334,75 @@ StockName: TWTR_Days_10_Kernel_sigmoid_Thres_0.5
 Accuracy: 0.41 (+/- 0.00)
 StockName: SAFT_Days_10_Kernel_sigmoid_Thres_0.5
 Accuracy: 0.39 (+/- 0.01)
+StockName: MCD_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.53 (+/- 0.01)
+
+StockName: AMZN_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.38 (+/- 0.01)
+
+StockName: JPM_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.45 (+/- 0.01)
+
+StockName: ORCL_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.48 (+/- 0.01)
+
+StockName: JNJ_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.55 (+/- 0.01)
+
+StockName: AAPL_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.42 (+/- 0.01)
+
+StockName: MSFT_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.46 (+/- 0.01)
+
+StockName: VZ_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.44 (+/- 0.00)
+
+StockName: CSCO_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.45 (+/- 0.01)
+
+StockName: CHKP_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.42 (+/- 0.01)
+
+StockName: BDX_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.44 (+/- 0.01)
+
+StockName: TWTR_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.41 (+/- 0.00)
+
+StockName: FB_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.41 (+/- 0.01)
+
+StockName: SAFT_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.39 (+/- 0.01)
+
+StockName: COST_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.45 (+/- 0.01)
+
+StockName: DIS_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.47 (+/- 0.01)
+
+StockName: PGR_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.46 (+/- 0.01)
+
+StockName: CLX_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.45 (+/- 0.01)
+
+StockName: PG_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.56 (+/- 0.01)
+
+StockName: KO_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.61 (+/- 0.01)
+
+StockName: TSLA_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.40 (+/- 0.01)
+
+StockName: GOOGL_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.45 (+/- 0.01)
+
+StockName: WMT_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.47 (+/- 0.01)
+
+StockName: NFLX_Days_10_Kernel_sigmoid_Thres_0.5
+Accuracy: 0.37 (+/- 0.01)
+
